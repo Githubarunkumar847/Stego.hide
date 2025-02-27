@@ -18,3 +18,15 @@ This project demonstrates a simple **image steganography** technique using **Pyt
 - **OpenCV (cv2)** 📸 – Image processing  
 - **ASCII Encoding** 🔢 – Text-to-pixel conversion  
 - **OS Module** 🖥️ – File operations 
+
+---
+
+## Before running code install opencv
+- Install [Python3](https://www.python.org/downloads/)
+- Open Command Prompt
+- Run the following command to install opencv
+  ```python
+  pip install opencv-python
+  ```
+- Open IDLE
+- Open the code file and run to get started.
